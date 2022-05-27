@@ -33,3 +33,6 @@ git branch nomeDaBranch
 
 --navegar entre as branchs
 git checkout nomeDaBranch
+
+--para migrar um codigo para a branch principal, obs tem que estar na branch que deseja importar as alterçoes
+git merge nomeDaBranch

@@ -1,2 +1,6 @@
 olá, meu nome é adryann
+<<<<<<< HEAD
 nova funcionalidade
+=======
+novo bloco de comandos
+>>>>>>> 4aff621c44e7689460b4d04481d13cef68f13b7d
