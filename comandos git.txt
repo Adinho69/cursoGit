@@ -1,0 +1,20 @@
+-- iniciar um projeto
+git init
+
+--checar o que esta adiciondo no controle de versão
+git status
+
+--adicionar arquivos ao controle de versão
+git add "nome do arquivo"
+
+--adicionar todos os aquivos de uma vez
+git add .
+
+--criar uma versao
+git commit -m "mensagem para representar oq foi feito nessa versão"
+
+--enviar as alterações para um repositorio na nuvem
+git push
+
+--adicionar um repositorio
+git remote add origin urldoProjeto
