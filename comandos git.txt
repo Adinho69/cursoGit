@@ -18,3 +18,10 @@ git push
 
 --adicionar um repositorio
 git remote add origin urldoProjeto
+
+--historico de alterções
+git reflog
+
+--voltar a uma versao anterios do codigo, localmente
+git reset --hard idDaVersão
+
