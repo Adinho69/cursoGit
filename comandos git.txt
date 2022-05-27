@@ -25,3 +25,11 @@ git reflog
 --voltar a uma versao anterios do codigo, localmente
 git reset --hard idDaVersão
 
+--mostrar quais branchs existem
+git branch
+
+--criar uma nova branch
+git branch nomeDaBranch
+
+--navegar entre as branchs
+git checkout nomeDaBranch
