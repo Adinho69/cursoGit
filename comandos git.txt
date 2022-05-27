@@ -34,5 +34,14 @@ git branch nomeDaBranch
 --navegar entre as branchs
 git checkout nomeDaBranch
 
+--antes de migrar uma branch, puxe as atualizações para ter o codigo mais rescente
+git pull
+
 --para migrar um codigo para a branch principal, obs tem que estar na branch que deseja importar as alterçoes
 git merge nomeDaBranch
+
+--criar uma nova branch com o codigo base de alguma outra branch
+git checkout -b nome-da-nova-branch nome-da-branch-base
+
+
+
